@@ -1,0 +1,227 @@
+index;Allegiance;Death No.;Episode_Key;Season;Episode;Method;Name
+1;Night's Watch;1;11;1;1;Ice sword;Waymar Royce
+2;Night's Watch;2;11;1;1;Ice sword;Gared
+3;Night's Watch;3;11;1;1;Sword;Will
+6;House Arryn;6;11;1;1;Poison;Jon Arryn
+7;Dothraki;7;11;1;1;Arakh;Dothraki man
+10;House Stark;10;12;1;2;Knife;Lady
+11;House Arryn;11;14;1;4;Spear;Ser Hugh of the Vale
+12;House Clegane;12;15;1;5;Sword;Clegane's horse
+28;House Stark;28;15;1;5;Knife;Jory Cassel
+32;House Arryn;32;16;1;6;Sword;Vardis Egen
+33;House Targaryen;33;16;1;6;Molten gold;Viserys Targaryen
+34;House Baratheon of King's Landing;34;17;1;7;Tusk;Robert Baratheon
+41;House Stark;41;18;1;8;Sword;Vayon Poole
+44;House Stark;44;18;1;8;Sword;Septa Mordane
+45;House Stark;45;18;1;8;Sword;Syrio Forel
+49;Dothraki;49;18;1;8;Hands;Mago
+50;Dothraki;50;19;1;9;Knife;Drogo's horse
+51;Dothraki;51;19;1;9;Sword;Qotho
+55;House Stark;55;19;1;9;Sword;Ned Stark
+56;Dothraki;56;110;1;10;Magic;Rhaego
+57;Dothraki;57;110;1;10;Pillow;Khal Drogo
+60;House Targaryen;60;21;2;1;Starvation;The Silver
+61;House Baratheon of Dragonstone;61;21;2;1;Poison;Maester Cressen
+66;House Targaryen;66;22;2;2;Unknown;Rakharo
+72;Night's Watch;72;23;2;3;Sword;Yoren
+75;House Lannister;75;24;2;4;Teeth;Rennick
+78;House Baratheon of Storm's End;78;25;2;5;Shadow Demon;Renly Baratheon
+81;House Clegane;81;25;2;5;Unknown;The Tickler
+82;House Stark;82;26;2;6;Sword;Rodrik Cassel
+91;House Lannister;91;26;2;6;Poison dart;Amory Lorch
+92;House Greyjoy;92;26;2;6;Knife;Drennan
+94;House Lannister;94;27;2;7;Hands;Alton Lannister
+95;House Stark;95;27;2;7;Hands;Torrhen Karstark
+109;House Baratheon of Dragonstone;109;29;2;9;Wildfire;Matthos Seaworth
+171;House Moore;171;29;2;9;Spear;Mandon Moore
+184;House Stark;184;210;2;10;Knife;Maester Luwin
+186;Night's Watch;186;210;2;10;Sword;Qhorin Halfhand
+188;House Targaryen;188;210;2;10;Sealed into vault;Doreah
+195;Night's Watch;195;34;3;4;Broken foot;Bannen
+196;Night's Watch;196;34;3;4;Knife;Craster
+197;Night's Watch;197;34;3;4;Knife;Jeor Mormont
+207;House Lannister;207;35;3;5;Unknown;Willem Lannister
+208;House Lannister;208;35;3;5;Knife;Martyn Lannister
+209;House Stark;209;35;3;5;Sword;Rickard Karstark
+216;House Baelish;216;36;3;6;Arrow;Ros
+239;House Stark;239;39;3;9;Knife;Unborn Stark child
+240;House Stark;240;39;3;9;Knife;Talisa Stark
+262;House Stark;262;39;3;9;Arrow;Grey Wind
+265;House Stark;265;39;3;9;Knife;Robb Stark
+266;House Frey;266;39;3;9;Knife;Joyeuse Frey
+267;House Stark;267;39;3;9;Knife;Catelyn Stark
+276;House Baratheon of King's Landing;276;41;4;1;Knife;Lowell (King's Soldier)
+279;House Baratheon of King's Landing;279;41;4;1;Sword;Polliver
+281;House Baratheon of Dragonstone;281;42;4;2;Fire;Axell Florent
+282;House Baratheon of Dragonstone;282;42;4;2;Fire;Dragonstone citizen
+283;House Baratheon of Dragonstone;283;42;4;2;Fire;Dragonstone citizen
+285;House Lannister;285;42;4;2;Poison;Joffrey Baratheon
+286;House Hollard;286;43;4;3;Arrow;Dontos Hollard
+308;House Bolton;308;45;4;5;Hands;Locke
+311;Night's Watch;311;45;4;5;Sword;Karl Tanner
+313;Night's Watch;313;45;4;5;Teeth;Rast
+327;House Baelish;327;47;4;7;Moon Door;Lysa Arryn
+338;House Greyjoy;338;48;4;8;Axe;Ralf Kenning
+339;House Martell;339;48;4;8;Hands;Oberyn Martell
+377;Night's Watch;377;49;4;9;Arrow;Pypar
+399;Night's Watch;399;49;4;9;Unknown;Grenn
+441;House Stark;441;410;4;10;Knife;Jojen Reed
+442;House Clegane;442;410;4;10;Hands;"Sandor ""The Hound"" Clegane"
+443;House Lannister;443;410;4;10;Hands/Necklace;Shae
+444;House Lannister;444;410;4;10;Arrow;Tywin Lannister
+445;House Targaryen;445;51;5;1;Knife;White Rat
+458;Night's Watch;458;53;5;3;Sword;Janos Slynt
+466;House Targaryen;466;54;5;4;Knife;Second Sun Mercenary
+467;House Targaryen;467;54;5;4;Knife;Second Sun Mercenary
+468;House Targaryen;468;54;5;4;Knife;Second Sun Mercenary
+507;House Targaryen;507;54;5;4;Sword;Barristan Selmy
+508;House Targaryen;508;55;5;5;Dragonfire (Dragon);Great Master
+511;Night's Watch;511;57;5;7;Old Age;Aemon Targaryen
+538;House Baratheon of Dragonstone;538;59;5;9;Fire;Shireen Baratheon
+594;House Baratheon of Dragonstone;594;510;5;10;Rope;Selyse Florent
+595;House Baratheon of Dragonstone;595;510;5;10;Sword;Stannis Baratheon
+598;House Bolton;598;510;5;10;Falling;Myranda Royce
+599;House Lannister;599;510;5;10;Knife;Meryn Trant
+601;House Lannister;601;510;5;10;Poison;Myrcella
+602;Night's Watch;602;510;5;10;Knife;Jon Snow
+608;House Martell;608;61;6;1;Knife;Doran Martell
+609;House Martell;609;61;6;1;Knife;Areo Hotah
+610;House Martell;610;61;6;1;Spear;Trystane Martell
+614;House Bolton;614;62;6;2;Knife;Roose Bolton
+615;House Bolton;615;62;6;2;Dogs;Walda Frey
+616;House Bolton;616;62;6;2;Dogs;Bolton heir
+617;House Greyjoy;617;62;6;2;Hands;Balon Greyjoy
+619;House Targaryen;619;63;6;3;Sword;Oswell Whent
+623;House Targaryen;623;63;6;3;Sword;Arthur Dayne
+624;Night's Watch;624;63;6;3;Noose;Bowen Marsh
+625;Night's Watch;625;63;6;3;Noose;Othell Yarwyck
+626;Night's Watch;626;63;6;3;Noose;Alliser Thorne
+627;Night's Watch;627;63;6;3;Noose;Olly
+628;Dothraki;628;64;6;4;Hands;Dothraki man
+629;Dothraki;629;64;6;4;Knife;Dothraki man
+630;House Stark;630;64;6;4;Knife;Osha
+631;Dothraki;631;64;6;4;Fire;Khal Moro
+632;Dothraki;632;64;6;4;Fire;Dothraki Khal
+633;Dothraki;633;64;6;4;Fire;Dothraki Khal
+634;Dothraki;634;64;6;4;Fire;Dothraki Khal
+635;Dothraki;635;64;6;4;Fire;Dothraki Khal
+636;Dothraki;636;64;6;4;Fire;Dothraki Khal
+637;Dothraki;637;64;6;4;Fire;Dothraki Khal
+638;Dothraki;638;64;6;4;Fire;Dothraki Khal
+639;Dothraki;639;64;6;4;Fire;Dothraki Khal
+640;Dothraki;640;64;6;4;Fire;Dothraki Khal
+641;Dothraki;641;64;6;4;Fire;Dothraki Khal
+642;Dothraki;642;64;6;4;Fire;Dothraki Khal
+643;Dothraki;643;64;6;4;Fire;Dothraki Khal
+644;Dothraki;644;64;6;4;Fire;Dothraki Khal
+645;Dothraki;645;64;6;4;Fire;Dothraki Khal
+650;House Stark;650;65;6;5;Sword;Summer
+653;House Stark;653;65;6;5;Hands;Hodor
+692;House Stark;692;69;6;9;Arrow;Rickon Stark
+772;House Umber;772;69;6;9;Knife;Smalljon Umber
+795;House Bolton;795;69;6;9;Teeth;Ramsay Bolton
+971;House Tyrell;971;610;6;10;Wildfire;Margaery Tyrell
+972;House Tyrell;972;610;6;10;Wildfire;Mace Tyrell
+973;House Tyrell;973;610;6;10;Wildfire;Loras Tyrell
+974;House Lannister;974;610;6;10;Wildfire;Kevan Lannister
+995;House Baratheon of King's Landing;995;610;6;10;Falling;Tommen Baratheon
+996;House Frey;996;610;6;10;Cooking;Lothar Frey
+997;House Frey;997;610;6;10;Cooking;Walder Rivers
+998;House Frey;998;610;6;10;Knife;Walder Frey
+999;House Frey;999;71;7;1;Poison;Frey family member
+1000;House Frey;1000;71;7;1;Poison;Frey family member
+1001;House Frey;1001;71;7;1;Poison;Frey family member
+1002;House Frey;1002;71;7;1;Poison;Frey family member
+1003;House Frey;1003;71;7;1;Poison;Frey family member
+1004;House Frey;1004;71;7;1;Poison;Frey family member
+1005;House Frey;1005;71;7;1;Poison;Frey family member
+1006;House Frey;1006;71;7;1;Poison;Frey family member
+1007;House Frey;1007;71;7;1;Poison;Frey family member
+1008;House Frey;1008;71;7;1;Poison;Frey family member
+1009;House Frey;1009;71;7;1;Poison;Frey family member
+1010;House Frey;1010;71;7;1;Poison;Frey family member
+1011;House Frey;1011;71;7;1;Poison;Frey family member
+1012;House Frey;1012;71;7;1;Poison;Frey family member
+1013;House Frey;1013;71;7;1;Poison;Frey family member
+1014;House Frey;1014;71;7;1;Poison;Frey family member
+1015;House Frey;1015;71;7;1;Poison;Frey family member
+1016;House Frey;1016;71;7;1;Poison;Frey family member
+1017;House Frey;1017;71;7;1;Poison;Frey family member
+1018;House Frey;1018;71;7;1;Poison;Frey family member
+1019;House Frey;1019;71;7;1;Poison;Frey family member
+1020;House Frey;1020;71;7;1;Poison;Frey family member
+1021;House Frey;1021;71;7;1;Poison;Frey family member
+1022;House Frey;1022;71;7;1;Poison;Frey family member
+1023;House Frey;1023;71;7;1;Poison;Frey family member
+1024;House Frey;1024;71;7;1;Poison;Frey family member
+1025;House Frey;1025;71;7;1;Poison;Frey family member
+1026;House Frey;1026;71;7;1;Poison;Frey family member
+1027;House Frey;1027;71;7;1;Poison;Frey family member
+1028;House Frey;1028;71;7;1;Poison;Frey family member
+1029;House Frey;1029;71;7;1;Poison;Frey family member
+1030;House Frey;1030;71;7;1;Poison;Frey family member
+1031;House Frey;1031;71;7;1;Poison;Frey family member
+1032;House Frey;1032;71;7;1;Poison;Frey family member
+1033;House Frey;1033;71;7;1;Poison;Frey family member
+1034;House Frey;1034;71;7;1;Poison;Frey family member
+1035;House Frey;1035;71;7;1;Poison;Frey family member
+1036;House Frey;1036;71;7;1;Poison;Frey family member
+1037;House Frey;1037;71;7;1;Poison;Frey family member
+1038;House Frey;1038;71;7;1;Poison;Frey family member
+1039;House Frey;1039;71;7;1;Poison;Frey family member
+1040;House Frey;1040;71;7;1;Poison;Frey family member
+1041;House Frey;1041;71;7;1;Poison;Frey family member
+1042;House Frey;1042;71;7;1;Poison;Frey family member
+1043;House Frey;1043;71;7;1;Poison;Frey family member
+1044;House Frey;1044;71;7;1;Poison;Frey family member
+1045;House Frey;1045;71;7;1;Poison;Frey family member
+1046;House Frey;1046;71;7;1;Poison;Frey family member
+1047;House Frey;1047;71;7;1;Poison;Frey family member
+1048;House Frey;1048;71;7;1;Poison;Frey family member
+1049;House Frey;1049;71;7;1;Poison;Frey family member
+1050;House Frey;1050;71;7;1;Poison;Frey family member
+1051;House Frey;1051;71;7;1;Poison;Frey family member
+1052;House Frey;1052;71;7;1;Poison;Frey family member
+1092;House Tyrell;1104;73;7;3;Poison;Olenna Tyrell
+1105;House Targaryen;1144;74;7;4;Arrow;Dothraki man
+1106;House Targaryen;1145;74;7;4;Arrow;Dothraki man
+1107;House Targaryen;1300;74;7;4;Giant arrow;Dothraki man
+1108;House Targaryen;1134;74;7;4;Spear;Dothraki man
+1109;House Targaryen;1141;74;7;4;Spear;Dothraki man
+1110;House Targaryen;1298;74;7;4;Sword;Dothraki man
+1111;House Targaryen;1299;74;7;4;Sword;Dothraki man
+1112;House Targaryen;1297;74;7;4;Sword;Dothraki man
+1113;House Targaryen;1292;74;7;4;Sword;Dothraki man
+1114;House Targaryen;1294;74;7;4;Sword;Dothraki man
+1115;House Targaryen;1295;74;7;4;Sword;Dothraki man
+1116;House Targaryen;1146;74;7;4;Sword;Dothraki man
+1312;House Lannister;1311;75;7;5;Dragonfire (Dragon);Dickon Tarly
+1313;House Lannister;1310;75;7;5;Dragonfire (Dragon);Randyll Tarly
+1318;House Stark;1322;76;7;6;Claws;Benjen Stark
+1322;House Targaryen;1321;76;7;6;Ice Javelin;Viserion
+1324;House Baelish;1324;77;7;7;Knife;Petyr Baelish
+1339;House Umber;1339;82;8;2;Steak;Ned Umber
+1342;Lord of Light;1374;83;8;3;Old Age;"Melisandre ""the Red Woman"" of Asshai"
+1351;House Mormont;1367;83;8;3;Hands;Lyanna Mormont
+1359;House Targaryen;1342;83;8;3;Knife;Unsullied
+1360;House Targaryen;1372;83;8;3;Sword;Jorah Mormont
+1361;House Targaryen;1340;83;8;3;Sword;Unsullied
+1362;House Targaryen;1341;83;8;3;Sword;Unsullied
+1363;House Targaryen;1346;83;8;3;Sword;Unsullied
+1364;House Targaryen;1347;83;8;3;Sword;Unsullied
+1365;House Targaryen;1348;83;8;3;Sword;Unsullied
+1366;House Targaryen;1349;83;8;3;Sword;Unsullied
+1368;Night's Watch;1345;83;8;3;Sword;Eddison Tollett
+1375;House Targaryen;1375;84;8;4;Giant arrow;Rhaegal
+1376;House Targaryen;1376;84;8;4;Giant arrow;Unsullied
+1377;House Targaryen;1377;84;8;4;Giant arrow;Unsullied
+1378;House Targaryen;1378;84;8;4;Giant arrow;Unsullied
+1380;House Lannister;2220;85;8;5;Dragonfire (Dragon);"Gregor ""the Mountain"" Clegane"
+1381;House Lannister;2221;85;8;5;Dragonfire (Dragon);"Sandor ""the Hound"" Clegane"
+1386;House Greyjoy;2214;85;8;5;Sword;Euron Greyjoy
+1387;House Lannister;2219;85;8;5;Hands;Qyburn
+1980;House Lannister;2223;85;8;5;Rubble;Cersei Lannister
+1981;House Lannister;2222;85;8;5;Rubble;Jaime Lannister
+1982;House Lannister;1780;85;8;5;Spear;Harry Strickland
+1996;House Targaryen;1380;85;8;5;Dragonfire (Dragon);Varys
+2224;House Targaryen;2224;86;8;6;Knife;Daenerys Targaryen
